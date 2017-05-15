@@ -14,7 +14,7 @@ class ArraysNote
     String[] courseNames = new String[10];
     
     //array to store 10 student grades.
-    int[] grade = new int[10];
+    int[] grade = new int[10]; //Here are the integers
     
     /*Ask the user to enter each course name and the 
     *corresponding course grade
